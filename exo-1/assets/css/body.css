@@ -1,0 +1,112 @@
+main {
+  margin: 100px 0;
+}
+
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.w-1\/2 {
+  width: 50%;
+}
+
+.w-1\/3 {
+  width: 33.33334%;
+}
+
+.main-desc {
+  margin-top: 30px;
+  color: gray;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.main-item .icon {
+  font-size: 50px;
+  color: #3d83cb;
+}
+.main-item-title {
+  font-weight: 700;
+  padding: 10px 0;
+}
+
+.main-item-desc {
+  font-size: small;
+  color: rgb(48, 48, 48);
+  text-align: justify;
+}
+
+.items-container {
+  margin-top: 70px;
+}
+
+.main-item {
+  padding-right: 20px;
+  padding-bottom: 60px;
+}
+
+.main-banner {
+  position: relative;
+  width: 100%;
+  margin-left: auto;
+  color: white;
+}
+
+.banner-right-content > *:not(:first-child) {
+  margin-top: 20px;
+}
+
+.banner-right-content .title {
+  font-size: 40px;
+  font-weight: 700;
+}
+.banner-right-content .banner-desc {
+  font-weight: 500;
+}
+
+.banner-right-content span {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.banner-right {
+  background-color: #3d83cb;
+  width: 80%;
+  padding: 80px 0;
+  margin-left: auto;
+}
+
+.banner-right-content {
+  width: 40%;
+  padding-left: 15%;
+  margin: 0 auto;
+  font-weight: 700;
+}
+
+.main-container-items {
+  margin-bottom: 70px;
+}
+
+.banner-right-content button {
+  background-color: transparent;
+  padding: 10px 35px;
+  border-radius: 5px;
+  border: white solid 1px;
+  color: white;
+}
+
+.banner-left {
+  width: 50%;
+}
+
+.banner-left img {
+  position: absolute;
+  top: 72px;
+  height: 500px;
+  width: 45%;
+}
